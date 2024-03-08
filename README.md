@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Sneha Jaiswal
 - 👀 I’m interested in  web development
-- 🌱 I’m currentlypersuing Btech in Computer Science
+- 🌱 I’m currently persuing Btech in Computer Science.
+- I'm third year student
+- 
   
 
 <!---
